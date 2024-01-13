@@ -1,6 +1,6 @@
 # Digital-Image-Processing
 
-##Outcomes:
+## Outcomes:
 
 1. Ability to analyse image and apply correct image processing technique
 2. Understand and use the concept of Filtering, Segmentation, Reconstruction, Detection
